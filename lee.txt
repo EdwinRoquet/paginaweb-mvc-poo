@@ -1,0 +1,7 @@
+usuario: correo@corre.com
+contraseña 123
+
+Todos los correos tiene la misma contraseña
+
+contraseña de conexion db = '';
+usuairio de la conexion db = 'root';
